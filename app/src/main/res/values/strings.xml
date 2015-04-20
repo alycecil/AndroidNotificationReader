@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_name">FirstApp-Service</string>
+    <string name="permlab_bindNotificationListenerService">Notification Listener Service</string>
+    <string name="permdesc_bindNotificationListenerService">Bind Notification Listener Service</string>
+    <string name="permdesc_accessNotifications">Access Notifications?</string>
+    <string name="permlab_accessNotifications">Access Notification</string>
+</resources>
